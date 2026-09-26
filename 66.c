@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+    int i;
+    while (i<=5){
+        printf("Hello world \n");
+        i++;
+    }
+return 0;
+}
