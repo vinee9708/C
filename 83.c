@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+    int n=5,sum=0;
+    for(int i=n ; i <= 50 ; i++){
+        sum = sum + i;
+    }
+printf("%d",sum);
+return 0;
+}
